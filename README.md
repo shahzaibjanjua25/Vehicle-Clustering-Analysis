@@ -1,7 +1,7 @@
 
 
-```markdown
-### Car Clustering Analysis
+
+## Car Clustering Analysis
 
 This project performs a clustering analysis on a dataset of cars using the K-means clustering algorithm. The main objectives of the project are to preprocess the dataset, explore relationships between variables, apply clustering, and analyze the resulting clusters.
 
@@ -19,7 +19,7 @@ This project performs a clustering analysis on a dataset of cars using the K-mea
 3. Install the required dependencies:
    ```
    pip install -r requirements.txt
-   ```
+  
 
 ## Usage
 
